@@ -5,3 +5,4 @@ class Cat < ApplicationRecord
         puts "Nyaa"
     end
 end
+
